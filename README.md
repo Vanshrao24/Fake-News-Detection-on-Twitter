@@ -166,4 +166,4 @@ The goal of this project is not only to build a fake news classifier, but also t
 
 ---
 
-⭐ If you found this project useful or interesting, feel free to explore the repository and give it a star!
+
